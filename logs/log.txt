@@ -1,0 +1,114 @@
+[17:53:24] Script started
+[17:53:24] home
+[17:53:25] map_selection
+[17:53:33] in_game
+[17:53:33] Map recognized: Workshop
+[17:58:09] Waiting for the game to end...
+[17:58:53] Victory (1 Victory, 0 Defeats)
+[17:58:53] home
+[17:58:55] map_selection
+[17:59:02] in_game
+[17:59:02] Map recognized: Bloody Puddles
+[18:04:07] Waiting for the game to end...
+[18:04:36] Victory (2 Victories, 0 Defeats)
+[18:04:36] home
+[18:04:37] map_selection
+[18:04:44] in_game
+[18:04:44] Map recognized: Sanctuary
+[18:09:33] Waiting for the game to end...
+[18:10:02] Victory (3 Victories, 0 Defeats)
+[18:10:03] collect
+[18:10:05] Opening boxes
+[18:10:12] event
+[18:10:14] map_selection
+[18:10:22] in_game
+[18:10:22] Map recognized: #Ouch
+[18:15:19] Waiting for the game to end...
+[18:15:48] Victory (4 Victories, 0 Defeats)
+[18:15:48] home
+[18:15:50] map_selection
+[18:15:56] in_game
+[18:15:56] Map recognized: Ravine
+[18:20:48] Waiting for the game to end...
+[18:21:34] Victory (5 Victories, 0 Defeats)
+[18:21:34] home
+[18:21:36] map_selection
+[18:21:44] in_game
+[18:21:44] Map recognized: #Ouch
+[18:26:41] Waiting for the game to end...
+[18:27:10] Victory (6 Victories, 0 Defeats)
+[18:27:10] home
+[18:27:12] map_selection
+[18:27:19] in_game
+[18:27:19] Map recognized: Infernal
+[18:31:43] Waiting for the game to end...
+[18:32:52] Victory (7 Victories, 0 Defeats)
+[18:32:52] home
+[18:32:53] map_selection
+[18:33:01] in_game
+[18:33:02] Map recognized: Workshop
+[18:37:39] Waiting for the game to end...
+[18:38:23] Victory (8 Victories, 0 Defeats)
+[18:38:24] collect
+[18:38:26] Opening boxes
+[18:38:33] event
+[18:38:35] map_selection
+[18:38:43] in_game
+[18:38:43] Map recognized: Muddy Puddles
+[18:43:11] Waiting for the game to end...
+[18:43:55] Victory (9 Victories, 0 Defeats)
+[18:43:55] home
+[18:43:56] map_selection
+[18:44:03] in_game
+[18:44:03] Map recognized: Dark Dungeons
+[18:48:50] Waiting for the game to end...
+[18:49:21] Victory (10 Victories, 0 Defeats)
+[18:49:21] home
+[18:49:22] map_selection
+[18:49:29] in_game
+[18:49:29] Map recognized: Infernal
+[18:53:54] Waiting for the game to end...
+[18:55:03] Victory (11 Victories, 0 Defeats)
+[18:55:03] home
+[18:55:04] map_selection
+[18:55:11] in_game
+[18:55:11] Map recognized: Flooded Valley
+[18:59:45] Waiting for the game to end...
+[19:00:40] Victory (12 Victories, 0 Defeats)
+[19:00:40] home
+[19:00:42] map_selection
+[19:00:48] in_game
+[19:00:49] Map recognized: Ravine
+[19:05:46] Waiting for the game to end...
+[19:06:32] Victory (13 Victories, 0 Defeats)
+[19:06:32] home
+[19:06:34] map_selection
+[19:06:41] in_game
+[19:06:41] Map recognized: Infernal
+[19:11:07] Waiting for the game to end...
+[19:12:15] Victory (14 Victories, 0 Defeats)
+[19:12:16] collect
+[19:12:18] Opening boxes
+[19:12:25] event
+[19:12:27] map_selection
+[19:12:34] in_game
+[19:12:34] Map recognized: Flooded Valley
+[19:17:10] Waiting for the game to end...
+[19:18:05] Victory (15 Victories, 0 Defeats)
+[19:18:05] home
+[19:18:06] map_selection
+[19:18:14] in_game
+[19:18:15] Map recognized: Workshop
+[19:22:51] Waiting for the game to end...
+[19:23:36] Victory (16 Victories, 0 Defeats)
+[19:23:36] home
+[19:23:37] map_selection
+[19:23:44] in_game
+[19:23:44] Map recognized: Ravine
+[19:28:44] Waiting for the game to end...
+[19:29:31] Victory (17 Victories, 0 Defeats)
+[19:29:31] home
+[19:29:32] map_selection
+[19:29:40] in_game
+[19:29:40] Map recognized: Muddy Puddles
+[19:32:35] Script stopped
